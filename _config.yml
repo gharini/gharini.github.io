@@ -5,7 +5,7 @@ description: "A dark blog theme for Jekyll."
 baseurl: ""
 url: "http://carte-noire.jacobtomlinson.co.uk/"
 title_description: "Harini Suvvari Personal website."
-title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "https://avatars1.githubusercontent.com/u/12485697?v=3&u=1cd4d02b984dd0a1340e68f7806e86d9a7f2c63e&s=140"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/jacobtomlinson/carte-noire
