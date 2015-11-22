@@ -266,7 +266,17 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    /*background-image: url(../img/bg-header-12.jpg);*/
+    background-image: url(../img/bg-header-21.png);
+    /*background-image: url(../img/bg-header-8.jpg);*/
+    /*background-image: url(../img/bg-header-7.jpg);*/
+    /*background-image: url(../img/header-bg-3.jpg);*/
+    /*background-image: url(../img/header-bg-2.jpg);*/
+
+
+
+
+
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
