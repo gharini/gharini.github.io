@@ -8,8 +8,8 @@ description: "Sanpypr Offers Software service in application testing, website de
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ffb133
-  secondary: e68e00
+  primary: FF5800
+  secondary: FF7F00
   secondary-dark: 333
 
 # Team names, titles and social links
