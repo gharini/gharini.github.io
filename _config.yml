@@ -17,21 +17,19 @@ people:
 - name: Harini Suvvari
   pic: harini
   position: Lead Developer
+  skills: Web Development, HTML, CSS, JavaScript, NodeJS & Test Automation.
   social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/harini-suvvari-55b91a1b
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/harini025
 
 - name: Aruna Sri Bolisetti
   pic: aruna
   position: Lead Developer
+  skills: Web Development, Test Automation, API services
   social:
     - title: twitter
-      url: #
-    - title: facebook
       url: #
     - title: linkedin
       url: #
@@ -40,20 +38,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://twitter.com/sandpypr
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
